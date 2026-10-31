@@ -1,4 +1,4 @@
-FROM dockage/alpine:3.19-openrc
+FROM alpine:3.23.7
 
 COPY assets/root/ /
 
